@@ -36,15 +36,15 @@ func GetBio() Bio {
   </a>
 
   <a href="https://www.linkedin.com/in/zannetsol/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/18625571/zannet?tab=profile">
-    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="" height="30" width="30">
   </a>
 
   <a href="https://www.youtube.com/channel/UClM9eBqt_3IY2kgIr-gA_pw">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="" height="30" width="30">
   </a>
 </p>
 
@@ -65,10 +65,10 @@ func GetBio() Bio {
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannetdev&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zannetdev&langs_count=10&theme=tokyonight&layout=compact" alt="" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zannetdev&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=zannetdev&show_icons=true&theme=synthwave" alt="A" /></p>
 
 
