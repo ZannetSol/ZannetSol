@@ -28,6 +28,11 @@ func GetBio() Bio {
 }
 ```
 
+<h2 align="center">
+<img src="https://user-images.githubusercontent.com/72852996/182298050-35c332dd-67e3-4e45-a6dd-fc6dcc5de189.png"  style="display: block; margin: 0 auto; align: center"/>
+</h2>
+<h2 align="center"> <a href="https://zannet.vercel.app/" target="_blank">My Portfolio </a>
+
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
