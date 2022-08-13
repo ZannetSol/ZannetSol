@@ -44,7 +44,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="" height="30" width="30">
   </a>
 
-  <a href="https://stackoverflow.com/users/18625571/zannet?tab=profile">
+  <a href="https://stackoverflow.com/users/18625571/zannetdev?tab=profile">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="" height="30" width="30">
   </a>
 
